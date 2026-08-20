@@ -1,0 +1,22 @@
+Section 1: Introdução 
+Section 2: Gerenciando bancos de dados 
+Section 3: Gerenciamento de tabelas 
+Section 4: Queries do CRUD
+Section 5: Avançando em SELECT
+Section 6: Criando Constraints nas tabelas 
+Section 7: Unindo tabelas com JOINs 
+Section 8: Agrupamento e Subqueries 
+Section 9: Funções de String 
+Section 10: Funções de Number Section 11: Funções de Date 
+Section 12: Relações entre tabelas 
+Section 13: Planejamento de banco de dados 
+Section 14: Como Hospedar um projeto PHP: fazendo deploy do projeto 
+Section 15: Projeto: Pizzaria do João 
+Section 16: Stored Procedures na prática 
+Section 17: PHP fundamentos 
+Section 18: Tipos de dados do PHP 
+Section 19: Estruturas de controle no PHP 
+Section 20: Estruturas de repetição no PHP 
+Section 21: Inclusão de código em PHP 
+Section 22: Projeto com PHP (Blog) 
+Section 23: Fechamento e próximos passos 
